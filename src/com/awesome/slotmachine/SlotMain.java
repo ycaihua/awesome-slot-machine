@@ -12,6 +12,7 @@ public class SlotMain extends Activity {
         //Tagalog comment:
         //Yung text na nakikita sa screen ay galing sa res/layout/main.xml 
         //may feeling ako na hindi siya dynamic.
+        //Wak
     }
 }
 
