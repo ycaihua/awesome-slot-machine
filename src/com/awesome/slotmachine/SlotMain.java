@@ -10,10 +10,9 @@ public class SlotMain extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         ImageView joaq = new ImageView(this);
-        //setContentView(R.layout.main);
         joaq.setImageResource(R.drawable.test);
         setContentView(joaq);
-        
+        //setContentView(R.layout.main);
         //Tagalog comment:
         //Yung text na nakikita sa screen ay galing sa res/layout/main.xml 
         //may feeling ako na hindi siya dynamic.
